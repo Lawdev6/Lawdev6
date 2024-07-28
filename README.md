@@ -1,4 +1,4 @@
-<h1 align="centre">🖖-Hi ! ⚡ -Law/ЕРАИА</h1>
+<h1 align="centre">⚡ -Law/ЕРАИА</h1>
 <h3 align="center">🤠-Bonjour ! Je suis Law, je suis ici pour partager mes projets et mes améliorations et surtout pour me faire une place dans cette communauté !</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lawdev6&label=Profile%20views&color=0e75b6&style=flat » alt="lawdev6 » /> </p>
