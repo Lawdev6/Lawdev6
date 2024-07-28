@@ -5,8 +5,8 @@
 - 🧠 - Languages/Others : Python | c++ | c# | c | JavaScript | Node.Js | Django
 
 <h3 align="left">🌐- Mes Réseaux :</h3>
-<h4 align="centre">https://t.me/EPANAFR - https://discord.gg/D3rFRxAS3H</h1>
+<h4 align="centre">- https://t.me/EPANAFR - https://discord.gg/D3rFRxAS3H</h1>
 <p align="left">
-<a href="- https://discord.gg/https://discord.gg/D3rFRxAS3H » target="blank"><img align="center » src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg » alt="https://discord.gg/D3rFRxAS3H » height="30 » width="40 » /></a>
+<a href="https://discord.gg/https://discord.gg/D3rFRxAS3H » target="blank"><img align="center » src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg » alt="https://discord.gg/D3rFRxAS3H » height="30 » width="40 » /></a>
 </p>
 
