@@ -2,7 +2,7 @@
 <h3 align="center">🤠-Bonjour ! Je suis Law, je suis ici pour partager mes projets et mes améliorations et surtout pour me faire une place dans cette communauté !</h3>
 
 - 🌍 - Je suis basé en France !
-- 🧠 - Languages : Python | c++ | c# | c | JavaScript | Node.Js | 
+- 🧠 - Languages/Others : Python | c++ | c# | c | JavaScript | Node.Js | Django
 
 <h3 align="left">🤖- Mes Réseaux :</h3>
 <h4 align="centre">🌴- https://t.me/EPANAFR - https://discord.gg/D3rFRxAS3H</h1>
